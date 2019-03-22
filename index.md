@@ -6,20 +6,13 @@ title: Jaco Immelman's CV
 Data Engineer
 
 <div id="webaddress">
-<a target="_blank" href="mailto:jaco.immelman@gmail.com"><i class="fa fa-envelope-o fa-2x"></i> jaco.immelman@gmail.com</a> |  <i class="fa fa-mobile fa-2x"></i> +34 600 070 159 
+<a target="_blank" href="mailto:jimmelman@gmail.com"><i class="fa fa-envelope-o fa-2x"></i> jimmelman@gmail.com</a> |  <i class="fa fa-mobile fa-2x"></i> +34 600 070 159 
 </div>
 
 
 ## About me
 
 I am a curious 20 year old Computer Science student. I have been always fascinated with technology and how it allows you to create new things from scratch. I am an enthusiast of open source projects and I try to contribute as much as possible publishing projects and libraries.
-
-## Education
-
-### University
-
-`2013 - `
-Computer Science. Universidad Carlos III de Madrid, Madrid. (Bilingual)
 
 ## Experience
 
@@ -49,6 +42,13 @@ Android app developed using the API of Series.ly, a website that helps you track
 __Androtalk / Androjuegos__
 
 Android apps for the blogs Androtalk.es and Androjuegos.com, with 5.000 downloads each and an average rate of 4.3
+
+## Education
+
+### University
+
+`2013 - `
+Computer Science. Universidad Carlos III de Madrid, Madrid. (Bilingual)
 
 ## Technical Skills
 
