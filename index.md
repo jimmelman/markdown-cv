@@ -12,7 +12,7 @@ Data Engineer
 
 ## About 
 
-Enthusiastic IT professional. 21 years experience.
+Enthusiastic IT professional. 21 years experience
 
 ## Experience
 
