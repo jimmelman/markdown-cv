@@ -10,9 +10,9 @@ Data Engineer
 </div>
 
 
-## About me
+## About 
 
-I am a curious 20 year old Computer Science student. I have been always fascinated with technology and how it allows you to create new things from scratch. I am an enthusiast of open source projects and I try to contribute as much as possible publishing projects and libraries.
+Enthusiastic IT professional. 21 years experience. The only constant technology with every position held has been the Oracle database, versions 7 through 12
 
 ## Experience
 
