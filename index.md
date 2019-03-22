@@ -30,12 +30,13 @@ __Morganstanley, Melbourne, VIC__
 Full SDLC programmer role on the EBBOS real time equity trading platform. Analysis, Design, Development and Maintenance. (Sun Solaris Oracle Database platform, Oracle Forms & Reports)
 
 
-## Education
+## Training
 
-### University
+`1997`
+Certificate in Entry Level Programming (COBOL) TDF Pretoria, ZA
 
-`2013 - `
-Computer Science. Universidad Carlos III de Madrid, Madrid. (Bilingual)
+`1993`
+Matric (Grade 12) - AHS Pretoria, ZA
 
 ## Technical Skills
 
