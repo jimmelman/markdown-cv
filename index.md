@@ -29,6 +29,18 @@ __Morganstanley, Melbourne, VIC__
 
 Full SDLC programmer role on the EBBOS real time equity trading platform. Analysis, Design, Development and Maintenance. (Sun Solaris Oracle Database platform, Oracle Forms & Reports)
 
+### Oracle Consultant
+`2009.01 ~ 2010.01`
+__BHP Billiton, Perth, WA__ 
+
+12 month contract to deliver an ETL solution  for the WA Iron Ore Rapid Rail Growth project. Operational Rail data was dumped in an Oracle staging schema. Performed a technical lead role, responsible to design and develop transformation pipelines to transform staged data for use by various BI systems. (Oracle, plsql, Quest Code tester, Mercurial VCS)
+
+### Senior Analyst/Programmer
+`2005.10 ~ 2008.11`
+__Altech, Cape Town, ZA__ 
+
+Altech provides administration, provisioning and billing solutions to the telecommunications industry. Responsile for feature development (6 week release cycles) and maintenance of their iCap (Integrated Customer Administration and Provisioning) product. Highlights include the opportunity to travel to Tanzania and the Democratic Republic of Congo to oversee upgrades. I received “Top Performer” at the 2007 company awards night. (Oracle, SQL, plsql, Java, analysis, application design)
+
 
 ## Training
 
