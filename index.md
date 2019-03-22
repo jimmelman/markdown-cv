@@ -32,6 +32,12 @@ Full SDLC programmer role on the EBBOS real time equity trading platform. Analys
 
 ## Training
 
+`2016`
+6.005.1x: Software Construction in Java (MITx edx.org)
+
+`2001`
+Oracle Certified Application Developer (OCP) Johannesburg, ZA
+
 `1997`
 Certificate in Entry Level Programming (COBOL) TDF Pretoria, ZA
 
