@@ -54,6 +54,11 @@ __Integrated Tertiary Software Pretoria, ZA__
 
 First programming job after passing the South African Information Technology Users Council (ITUC) COBOL exam. Responsible for maintenance / feature development on a Student administration system. First introduction to the Oracle RDBMS (version 7). Developed a large number of custom reports using Pro*C. (Oracle, SQL, plsql, Pro*C, Oracle Forms)
 
+### Correctional Officer
+`1998.01 ~ 1999.10`
+__South African Department of Correctional Services, Multiple locations, ZA__ 
+
+First programming job after passing the South African Information Technology Users Council (ITUC) COBOL exam. Responsible for maintenance / feature development on a Student administration system. First introduction to the Oracle RDBMS (version 7). Developed a large number of custom reports using Pro*C. (Oracle, SQL, plsql, Pro*C, Oracle Forms)
 
 
 ## Training
