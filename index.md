@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Alejandro Rodríguez Salamanca's CV
+title: Jaco Immelman's CV
 ---
 # Alejandro Rodríguez Salamanca
 Computer Science student.
