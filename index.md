@@ -22,16 +22,17 @@ Enthusiastic IT professional. 21 years experience. The only constant technology 
 
 `Summer 2015`
 
-  __Android Developer Intern, Fever, Madrid.__
+  __Data Engineer - linkgroup.com Melbourne, VIC__
 
 At Fever, I was in charge of helping to build a great app with more than 2 million downloads fixing bugs, doing tests and implementing some new features. 
 
 ### Apps
 
-`Jan 2015`
 __T3chFest__
 
 T3chFest is an event celebrated every year in the Universidad Carlos III de Madrid. I was in charge of build the app of the event with information about the talks, speaker and location.
+`Jan 2015`
+
 
 `Summer 2013`
 __Series.ly Beta__
