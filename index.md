@@ -12,7 +12,7 @@ Data Engineer
 
 ## About 
 
-Enthusiastic IT professional. 21 years experience. The only constant technology with every position held has been the Oracle database, versions 7 through 12
+Enthusiastic IT professional. 21 years experience. The only constant technology with every position held has been the Oracle database, versions 7 through 12.
 
 ## Experience
 
