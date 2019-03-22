@@ -6,7 +6,7 @@ title: Jaco Immelman's CV
 Data Engineer
 
 <div id="webaddress">
-<a target="_blank" href="mailto:alexrs95@gmail.com"><i class="fa fa-envelope-o fa-2x"></i> alexrs95@gmail.com</a> | <a target="_blank" href="https://github.com/Alexrs95/"><i class="fa fa-github fa-2x"></i> Alexrs95</a> | <i class="fa fa-mobile fa-2x"></i> +34 600 070 159 | 17-Oct-1995
+<a target="_blank" href="mailto:jaco.immelman@gmail.com"><i class="fa fa-envelope-o fa-2x"></i> jaco.immelman@gmail.com</a> |  <i class="fa fa-mobile fa-2x"></i> +34 600 070 159 
 </div>
 
 
