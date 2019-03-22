@@ -19,11 +19,13 @@ Enthusiastic IT professional. 21 years experience.
 ### Data Engineer
 `2011.03 ~ Current`
 __Link Group, Melbourne, VIC__ 
+
 Started with Superpartners in 2011 as a senior analyst/programmer on their R2 system (Oracle Forms,plsql, Pro*C). Moved into the transition team in 2013 as a data engineer when Superpartners was bought by Link. Worked on the largest data migration project in Australian Superannuation history. Involved with successfully transitioning 5 million+ members and $2 billion+ in assets from external systems onto Link’s various administration platforms. Designed, developed and optimised data migration pipelines. Currently serving as Technical Lead (2 years). I have been responsible for all technical aspects of 2 successful fund transitions, coordinating a team with diverse data skills. (Oracle, Informatica, Java, J2EE, SQL, plsql, TSQL, subversion, Jira)
 
 ### Senior Analyst/Programmer
 `2010.02 ~ 2011.01`
 __Morganstanley, Melbourne, VIC__ 
+
 Full SDLC programmer role on the EBBOS real time equity trading platform. Analysis, Design, Development and Maintenance. (Sun Solaris Oracle Database platform, Oracle Forms & Reports)
 
 
