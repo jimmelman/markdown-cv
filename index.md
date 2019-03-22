@@ -18,11 +18,9 @@ Enthusiastic IT professional. 21 years experience. The only constant technology 
 
 ### Internships
 
-`Summer 2014`
-
 `Summer 2015`
 
-  __Data Engineer - linkgroup.com Melbourne, VIC__
+__Data Engineer - linkgroup.com Melbourne, VIC__
 
 At Fever, I was in charge of helping to build a great app with more than 2 million downloads fixing bugs, doing tests and implementing some new features. 
 
