@@ -1,91 +1,99 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alejandro Rodríguez Salamanca's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alejandro Rodríguez Salamanca
+Computer Science student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a target="_blank" href="mailto:alexrs95@gmail.com"><i class="fa fa-envelope-o fa-2x"></i> alexrs95@gmail.com</a> | <a target="_blank" href="https://github.com/Alexrs95/"><i class="fa fa-github fa-2x"></i> Alexrs95</a> | <i class="fa fa-mobile fa-2x"></i> +34 600 070 159 | 17-Oct-1995
 </div>
 
 
-## Currently
+## About me
 
-Standing on the shoulders of giant
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+I am a curious 20 year old Computer Science student. I have been always fascinated with technology and how it allows you to create new things from scratch. I am an enthusiast of open source projects and I try to contribute as much as possible publishing projects and libraries.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### University
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2013 - `
+Computer Science. Universidad Carlos III de Madrid, Madrid. (Bilingual)
 
-- Sizar
+## Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Internships
 
-- Fellow
+`Summer 2014`
 
+`Summer 2015`
 
+  __Android Developer Intern, Fever, Madrid.__
 
-## Awards
+At Fever, I was in charge of helping to build a great app with more than 2 million downloads fixing bugs, doing tests and implementing some new features. 
 
-`2012`
-President, *Royal Society*, London, UK
+### Apps
 
-Associate, *French Academy of Science*, Paris, France
+`Jan 2015`
+__T3chFest__
 
+T3chFest is an event celebrated every year in the Universidad Carlos III de Madrid. I was in charge of build the app of the event with information about the talks, speaker and location.
 
+`Summer 2013`
+__Series.ly Beta__
 
-## Publications
+Android app developed using the API of Series.ly, a website that helps you track the series, movies and documentaries you see. It got more than 115.000 downloads on Play Store.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Summer 2012`
+__Androtalk / Androjuegos__
 
-### Journals
+Android apps for the blogs Androtalk.es and Androjuegos.com, with 5.000 downloads each and an average rate of 4.3
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Technical Skills
 
-`1669`
-Lectiones opticæ.
+### Programming Languages
 
-etc. etc. etc.
+`Basic Level`
+C, Assembly (MIPS), HTML5, CSS3, JavaScript
 
-### Patents
+`Medium Level`
+Java
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Operating Systems
 
+Mac OS X, Linux, Windows
 
-## Occupation
+## Languages
 
-`1600`
-__Royal Mint__, London
+###Spanish
 
-- Warden
-- Minted coins
+__Native language__
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+###English
+
+__Medium__
+
+## Hackathons
+
+`2013`
+Runner-up at Betabeers´ crowdfunding hackathon
+
+`Jan 2015`
+Winner at HackathonLovers´ culture and payments hackathon
+
+## Open Source Projects
+
+I love open source because I have learnt a lot reading other's code. Because of this, I try to contribute as much as possible uploading [my projects.](https://github.com/Alexrs95/)
+
+## Interests
+
+Sports, music, science, technology, movies.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Sep 2015 -->
 
 
