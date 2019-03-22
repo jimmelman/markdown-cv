@@ -79,11 +79,14 @@ Matric (Grade 12) - AHS Pretoria, ZA
 
 ### Programming Languages
 
-`Basic Level`
+`Basic`
 Python, Kotlin, C, JavaScript
 
-`Medium Level`
+`Medium`
 Java
+
+`Advanced`
+SQL, PL/SQL
 
 ### Operating Systems
 
