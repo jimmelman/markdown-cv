@@ -58,7 +58,7 @@ First programming job after passing the South African Information Technology Use
 `1998.01 ~ 1999.10`
 __South African Department of Correctional Services, Multiple locations, ZA__ 
 
-First programming job after passing the South African Information Technology Users Council (ITUC) COBOL exam. Responsible for maintenance / feature development on a Student administration system. First introduction to the Oracle RDBMS (version 7). Developed a large number of custom reports using Pro*C. (Oracle, SQL, plsql, Pro*C, Oracle Forms)
+After 6 months basic training in Kroonstad I served a further 3 years, filling different roles at various facilities across the country. During this period I completed the  first year of a Bachelor of Commerce through  at the University of South Africa (Distance learning). High fees/student debt resulted in my decision to not further pursue this degree.
 
 
 ## Training
@@ -80,7 +80,7 @@ Matric (Grade 12) - AHS Pretoria, ZA
 ### Programming Languages
 
 `Basic Level`
-C, Assembly (MIPS), HTML5, CSS3, JavaScript
+Python, Kotlin, C, JavaScript
 
 `Medium Level`
 Java
@@ -91,34 +91,13 @@ Mac OS X, Linux, Windows
 
 ## Languages
 
-###Spanish
+Afrikaans, English
 
-__Native language__
-
-###English
-
-__Medium__
-
-## Hackathons
-
-`2013`
-Runner-up at Betabeers´ crowdfunding hackathon
-
-`Jan 2015`
-Winner at HackathonLovers´ culture and payments hackathon
-
-## Open Source Projects
-
-I love open source because I have learnt a lot reading other's code. Because of this, I try to contribute as much as possible uploading [my projects.](https://github.com/Alexrs95/)
-
-## Interests
-
-Sports, music, science, technology, movies.
 
 
 
 <!-- ### Footer
 
-Last updated: Sep 2015 -->
+Last updated: Mar 2019 -->
 
 
