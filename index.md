@@ -67,14 +67,27 @@ Oracle RDBMS, Oracle Designer, SQL, PL/SQL, Java
 `1999.11 ~ 2005.09`
 __Medscheme, Johannesburg, ZA__ 
 
-Medscheme is South Africa's largest private health administrator. I joined this company while they were migrating their data from a mainframe to a bespoke new Oracle system. Developed,optimised and maintained data migration pipelines. Full SDLC on the new system (design, development, analysis, troubleshooting). Obtained an Oracle Application  Developer Certification (OCP).(Oracle Forms & Reports, Oracle Designer, SQL, PL/SQL, TOAD, unix shell, SQL performance tuning
-Batch job optimization)
+South Africa's largest private health administrator. 
+
+Developed/optimised ETL routines to move from a legacy mainframe to a bespoke new Oracle system (Nexus). 
+
+Transitioned to a full SDLC role on Nexus 
+
+Oracle, PL/SQL, SQL, unix shell scripting, Oracle Forms, Oracle Designer
 
 ### Intern Programmer
 `1998.01 ~ 1999.10`
 __Integrated Tertiary Software Pretoria, ZA__ 
 
-First programming job after passing the South African Information Technology Users Council (ITUC) COBOL exam. Responsible for maintenance / feature development on a Student administration system. First introduction to the Oracle RDBMS (version 7). Developed a large number of custom reports using Pro*C. (Oracle, SQL, PL/SQL, Pro*C, Oracle Forms)
+Intern role after passing the South African Information Technology Users Council (ITUC) COBOL exam. 
+
+Maintenance / feature development on a Student administration system. 
+
+First introduction to the Oracle RDBMS (version 7). 
+
+Developed a large number of custom reports using Pro*C. 
+
+Oracle, SQL, PL/SQL, Pro*C, Oracle Forms
 
 ### Correctional Officer
 `1998.01 ~ 1999.10`
