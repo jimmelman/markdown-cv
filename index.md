@@ -93,7 +93,7 @@ Oracle, SQL, PL/SQL, Pro*C, Oracle Forms
 `1994.01 ~ 1997.12`
 __South African Department of Correctional Services, Multiple locations, ZA__ 
 
-Served 4 years after school
+Served for 4 years after finishing school
 
 Deployed to help at the Groenpunt facility in Vereeniging during South Africa's first free general elections (26-29 April, 1994). This remains a career highlight.
 
