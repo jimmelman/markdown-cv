@@ -90,10 +90,13 @@ Developed a large number of custom reports using Pro*C.
 Oracle, SQL, PL/SQL, Pro*C, Oracle Forms
 
 ### Correctional Officer
-`1998.01 ~ 1999.10`
+`1994.01 ~ 1997.12`
 __South African Department of Correctional Services, Multiple locations, ZA__ 
 
-After 6 months basic training in Kroonstad I served a further 3 years, filling different roles at various facilities across the country. During this period I completed the  first year of a Bachelor of Commerce through  at the University of South Africa (Distance learning). High fees/student debt resulted in my decision to not further pursue this degree.
+Served for 4 years after school, filling different roles at various facilities across the country. 
+
+Deployed to help at the Groenpunt facility in Vereeniging during South Africa's first free general election (26-29 April, 1994). This remains a career highlight.
+
 
 
 ## Education & Training
