@@ -18,7 +18,7 @@ title: Jaco Immelman's
 `2011.03 ~ Current`
 __Link Group, Melbourne, VIC__ 
 
-Joined as a senior analyst/programmer on Superpartners R2 core registry. (Oracle , PL/SQL, Pro*C)
+Joined as a senior analyst/programmer on the Superpartners R2 core registry. (Oracle , PL/SQL, Pro*C)
 
 Moved into the transition team in 2013 as a data engineer 
 
