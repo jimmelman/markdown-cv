@@ -27,7 +27,7 @@ Started with Superpartners in 2011 as a senior analyst/programmer on their R2 sy
 `2010.02 ~ 2011.01`
 __Morganstanley, Melbourne, VIC__ 
 
-Full SDLC analyst/programmer role on the EBBOS real time equity trading platform
+Full SDLC analyst/programmer role on the EBBOS real time equity trading platform.
  
 Sun Solaris Oracle Database platform, Oracle Forms & Reports
 
@@ -35,11 +35,11 @@ Sun Solaris Oracle Database platform, Oracle Forms & Reports
 `2009.01 ~ 2010.01`
 __BHP Billiton, Perth, WA__ 
 
-12 month contract to deliver an ETL solution for the WA Iron Ore Rapid Rail Growth project
+12 month contract to deliver an ETL solution for the WA Iron Ore Rapid Rail Growth project.
  
-Technical lead role, responsible for design/development of routines to transform operational rail data for use by various BI systems 
+Technical lead role, responsible for design/development of routines to transform operational rail data for use by various BI systems. 
 
-Comprehensive PL/SQL unit testing using Code Tester from Quest
+Comprehensive PL/SQL unit testing using Code Tester from Quest.
 
 Oracle, PL/SQL, Quest Code tester, Mercurial VCS
 
