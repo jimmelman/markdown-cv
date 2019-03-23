@@ -34,7 +34,6 @@ Full SDLC programmer role on the EBBOS real time equity trading platform. Analys
 __BHP Billiton, Perth, WA__ 
 
 Comprehensive PL/SQL unit testing using Code Tester from Quest
-
 12 month contract to deliver an ETL solution  for the WA Iron Ore Rapid Rail Growth project. Operational Rail data was dumped in an Oracle staging schema. Performed a technical lead role, responsible to design and develop transformation pipelines to transform staged data for use by various BI systems. (Oracle, PL/SQL, Quest Code tester, Mercurial VCS)
 
 ### Senior Analyst/Programmer
