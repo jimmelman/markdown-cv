@@ -20,11 +20,11 @@ __Link Group, Melbourne, VIC__
 
 Joined as a senior analyst/programmer on the Superpartners R2 core registry. (Oracle , PL/SQL, Pro*C)
 
-Moved to the transition team in 2013 as a data engineer 
+Moved to the transition team in 2013 as a data engineer. 
 
 Designed/developed/optimised data transformation pipelines for largest data migration project in Australian Superannuation history. (5 million+ members and $2 billion+ in assets) 
 
-Currently serving as Technical Lead (2 years), coordinating a team with a diverse range of ETL skills
+Currently serving as Technical Lead (2 years), coordinating a team with a diverse range of ETL skills.
 
 Oracle RDBMS (Exadata), Informatica, Java, J2EE, SQL, PL/SQL, TSQL, subversion, Jira
 
@@ -93,7 +93,7 @@ Oracle, SQL, PL/SQL, Pro*C, Oracle Forms
 `1994.01 ~ 1997.12`
 __South African Department of Correctional Services, Multiple locations, ZA__ 
 
-Served for 4 years after finishing school
+Served for 4 years after finishing school.
 
 Deployed to help at the Groenpunt facility in Vereeniging during South Africa's first free general elections (26-29 April, 1994). This remains a career highlight.
 
