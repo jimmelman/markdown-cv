@@ -10,7 +10,7 @@ title: Jaco Immelman's
 
 ## About 
 
-Enthusiastic IT professional. 21 years experience
+21 years experience.
 
 ## Experience
 
