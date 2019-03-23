@@ -26,7 +26,7 @@ Designed/developed/optimised data transformation pipelines for largest data migr
 
 Currently serving as Technical Lead (2 years), coordinating a team with a diverse range of ETL skills
 
-Oracle, Informatica, Java, J2EE, SQL, PL/SQL, TSQL, subversion, Jira
+Oracle RDBMS (Exadata), Informatica, Java, J2EE, SQL, PL/SQL, TSQL, subversion, Jira
 
 
 ### Senior Analyst/Programmer
@@ -35,7 +35,7 @@ __Morganstanley, Melbourne, VIC__
 
 Full SDLC analyst/programmer role on the EBBOS real time equity trading platform.
  
-Sun Solaris Oracle Database platform, Oracle Forms & Reports
+Oracle RDBMS (Sun Solaris), Oracle Forms & Reports
 
 ### Oracle Consultant
 `2009.01 ~ 2010.01`
@@ -47,13 +47,21 @@ Technical lead role, responsible for design/development of routines to transform
 
 Comprehensive PL/SQL unit testing using Code Tester from Quest.
 
-Oracle, PL/SQL, Quest Code tester, Mercurial VCS
+Oracle RDBMS, PL/SQL, Quest Code tester, Mercurial VCS
 
 ### Senior Analyst/Programmer
 `2005.10 ~ 2008.11`
 __Altech, Cape Town, ZA__ 
 
-Altech provides administration, provisioning and billing solutions to the telecommunications industry. Responsile for feature development (6 week release cycles) and maintenance of their iCap (Integrated Customer Administration and Provisioning) product. Highlights include the opportunity to travel to Tanzania and the Democratic Republic of Congo to oversee upgrades. I received “Top Performer” at the 2007 company awards night. (Oracle, SQL, PL/SQL, Java, analysis, application design)
+Senior analyst/programmer role on the iCap (Integrated Customer Administration and Provisioning) product.
+
+6 week release cycles
+ 
+Highlights include the opportunity to travel to Tanzania and the Democratic Republic of Congo to oversee upgrades. 
+
+Received “Top Performer for 2007” at the company awards night. 
+
+Oracle RDBMS, Oracle Designer, SQL, PL/SQL, Java
 
 ### Analyst/Programmer
 `1999.11 ~ 2005.09`
