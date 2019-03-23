@@ -35,7 +35,7 @@ Sun Solaris Oracle Database platform, Oracle Forms & Reports
 `2009.01 ~ 2010.01`
 __BHP Billiton, Perth, WA__ 
 
-12 month project to deliver an ETL solution for the WA Iron Ore Rapid Rail Growth project
+12 month contract to deliver an ETL solution for the WA Iron Ore Rapid Rail Growth project
  
 Technical lead role, responsible for design/development of routines to transform operational rail data for use by various BI systems 
 
