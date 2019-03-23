@@ -95,7 +95,7 @@ __South African Department of Correctional Services, Multiple locations, ZA__
 
 Served 4 years after school, filling different roles at various facilities across the country. 
 
-Deployed to help at the Groenpunt facility in Vereeniging during South Africa's first free general election (26-29 April, 1994). This remains a career highlight.
+Deployed to help at the Groenpunt facility in Vereeniging during South Africa's first free general elections (26-29 April, 1994). This remains a career highlight.
 
 
 
