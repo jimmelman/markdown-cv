@@ -18,10 +18,16 @@ title: Jaco Immelman's
 `2011.03 ~ Current`
 __Link Group, Melbourne, VIC__ 
 
-Started with Superpartners in 2011 as a senior analyst/programmer on their R2 system (Oracle Forms,PL/SQL, Pro*C). Moved into the transition team in 2013 as a data engineer when Superpartners was bought by Link. Worked on the largest data migration project in Australian Superannuation history. Involved with successfully transitioning 5 million+ members and $2 billion+ in assets from external systems onto Link’s various administration platforms. Designed, developed and optimised data migration pipelines. Currently serving as Technical Lead (2 years). I have been responsible for all technical aspects of 2 successful fund transitions, coordinating a team with diverse data skills. (Oracle, Informatica, Java, J2EE, SQL, PL/SQL, TSQL, subversion, Jira)
-* > and then
-* and then
-* and then
+Joined as a senior analyst/programmer on Superpartners R2 core registry. (Oracle , PL/SQL, Pro*C)
+
+Moved into the transition team in 2013 as a data engineer 
+
+Designed/developed/optimised data transformation pipelines for largest data migration project in Australian Superannuation history. (5 million+ members and $2 billion+ in assets) 
+
+Currently serving as Technical Lead (2 years), coordinating a team with a diverse range of ETL skills
+
+Oracle, Informatica, Java, J2EE, SQL, PL/SQL, TSQL, subversion, Jira
+
 
 ### Senior Analyst/Programmer
 `2010.02 ~ 2011.01`
