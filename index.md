@@ -27,7 +27,7 @@ Started with Superpartners in 2011 as a senior analyst/programmer on their R2 sy
 `2010.02 ~ 2011.01`
 __Morganstanley, Melbourne, VIC__ 
 
-Full SDLC analyst / programmer role on the EBBOS real time equity trading platform
+Full SDLC analyst/programmer role on the EBBOS real time equity trading platform
  
 Sun Solaris Oracle Database platform, Oracle Forms & Reports
 
