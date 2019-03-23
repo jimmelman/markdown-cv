@@ -75,7 +75,7 @@ __South African Department of Correctional Services, Multiple locations, ZA__
 After 6 months basic training in Kroonstad I served a further 3 years, filling different roles at various facilities across the country. During this period I completed the  first year of a Bachelor of Commerce through  at the University of South Africa (Distance learning). High fees/student debt resulted in my decision to not further pursue this degree.
 
 
-## Training
+## Education & Training
 
 `2016`
 6.005.1x: Software Construction in Java (MITx edx.org)
