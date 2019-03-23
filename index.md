@@ -33,7 +33,7 @@ Full SDLC programmer role on the EBBOS real time equity trading platform. Analys
 `2009.01 ~ 2010.01`
 __BHP Billiton, Perth, WA__ 
 
-12 month contract to deliver an ETL solution  for the WA Iron Ore Rapid Rail Growth project
+12 month project to deliver an ETL solution for the WA Iron Ore Rapid Rail Growth project
  
 Operational Rail data was dumped in an Oracle staging schema. 
 
