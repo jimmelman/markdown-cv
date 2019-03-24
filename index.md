@@ -126,7 +126,7 @@ SQL, PL/SQL
 Oracle, SQL Server, PostgreSQL, MySQL, H2, elasticsearch, redis
 
 ### Tools & Frameworks
-J2EE, Informatica, SSIS, Spring Boot / Batch, Intellij Idea, Oracle SQL Developer, AWS Lightsail
+J2EE, Informatica, SSIS, Spring Boot / Batch, Intellij Idea, Oracle SQL Developer, AWS EC2 & Lightsail
 
 
 ### Operating Systems
