@@ -37,7 +37,7 @@ Oracle RDBMS (Exadata), Informatica, SSIS, Java, J2EE, SQL, PL/SQL, TSQL, elasti
 `2010.02 ~ 2011.01`
 __Morganstanley, Melbourne, VIC__ 
 
-Senior Analyst/Programmer role on the EBBOS real time equity trading platform.
+Senior Analyst/Programmer role on a real time equity trading platform.
 
 Developed/maintained/optimised database Procedures, Functions, Cursors and Triggers. (Complex PL/SQL)
  
@@ -57,9 +57,7 @@ Oracle RDBMS, PL/SQL, Quest Code tester, Mercurial VCS
 `2005.10 ~ 2008.11`
 __Altech, Cape Town, ZA__ 
 
-Senior analyst/programmer role on the iCap (Integrated Customer Administration and Provisioning) product.
-
-Highlights include the opportunity to travel to Tanzania and the Democratic Republic of Congo to oversee upgrades. 
+Senior analyst/programmer role on a Telecommunications Customer Administration and Provisioning system.
 
 Oracle RDBMS, Oracle Designer, SQL, PL/SQL, Java
 
