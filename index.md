@@ -24,7 +24,7 @@ Established robust techniques for raw data transformation.
 
 Implemented a Defined Benefit and Insurance Reconciliation solution. (Automate quotes (JVM) -> ingest/index results in elasticsearch -> build kibana visualisations for use by the  quality team)
 
-Oracle RDBMS (Exadata), Informatica, SSIS, Java, Pro*C, J2EE, SQL, PL/SQL, TSQL, elasticsearch, APEX, subversion, Jira
+Oracle RDBMS (Exadata), Informatica, SSIS, Java, Pro*C, J2EE, SQL, PL/SQL, TSQL, Elasticsearch, APEX, Subversion VCS, Jira
 
 
 ### Senior Analyst/Programmer
