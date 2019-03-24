@@ -124,7 +124,7 @@ Windows, Unix, Linux, Mac OS X
 
 ## Languages
 
-Afrikaans, English
+English, Afrikaans
 
 
 
