@@ -20,7 +20,7 @@ __Link Group, Melbourne, VIC__
 
 Joined as a senior Analyst/Programmer on the Superpartners R2 core registry. (Oracle , PL/SQL, Pro*C)
 
-Moved to the transition team in 2013 as a data engineer. 
+Moved to the transition team in 2013 as a data engineer when Link Group acquired Superpatners.
 
 Designed/developed/optimised data transformation pipelines for largest data migration project in Australian Superannuation history. (5 million+ members and $2 billion+ in assets) 
 
