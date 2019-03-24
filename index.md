@@ -10,7 +10,7 @@ title: Jaco Immelman's
 
 ## About 
 
-21 years experience working with the Oracle RDBMS. 8 years in current role
+21 years experience as IT professional. 8 years in current role
 
 ## Experience
 
