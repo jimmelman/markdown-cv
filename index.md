@@ -43,7 +43,7 @@ __BHP Billiton, Perth, WA__
 
 12 month contract to deliver an ETL solution for the WA Iron Ore Rapid Rail Growth project.
  
-Technical lead role, responsible for design/development of routines to clean and transform operational rail data for BHP's BI systems. 
+Technical lead role, responsible for design and development of routines to clean and transform operational rail data for BHP's BI systems. 
 
 Oracle RDBMS, PL/SQL, Quest Code tester, Mercurial VCS
 
