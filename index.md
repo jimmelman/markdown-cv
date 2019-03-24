@@ -18,7 +18,7 @@ title: Jaco Immelman's
 `2011.03 ~ Current`
 __Link Group, Melbourne, VIC__ 
 
-Joined as a senior Analyst/Programmer on the Superpartners R2 core registry. (Oracle , PL/SQL, Pro*C)
+Joined as Analyst/Programmer on the Superpartners R2 core registry. (Oracle , PL/SQL, Pro*C)
 
 Moved to the transition team in 2013 as a data engineer when Link Group acquired Superpatners.
 
@@ -37,7 +37,7 @@ Oracle RDBMS (Exadata), Informatica, SSIS, Java, J2EE, SQL, PL/SQL, TSQL, elasti
 `2010.02 ~ 2011.01`
 __Morganstanley, Melbourne, VIC__ 
 
-Full SDLC Analyst/Programmer role on the EBBOS real time equity trading platform.
+Senior Analyst/Programmer role on the EBBOS real time equity trading platform.
 
 Developed/maintained/optimised database Procedures, Functions, Cursors and Triggers. (Complex PL/SQL)
  
@@ -133,6 +133,13 @@ Java
 
 `Advanced`
 SQL, PL/SQL
+
+### Persistence Technologies
+Oracle, SQL Server, PostgreSQL, MySQL, H2, elasticsearch, redis
+
+### Tools & Frameworks
+J2EE, Informatica, SSIS, Spring Boot / Batch, Intellij Idea, Oracle SQL Developer, AWS Lightsail
+
 
 ### Operating Systems
 
