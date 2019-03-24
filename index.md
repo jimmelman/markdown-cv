@@ -71,9 +71,7 @@ South Africa's largest private health administrator.
 
 Developed/optimised ETL routines to move from a legacy mainframe to a bespoke new Oracle system (Nexus). 
 
-Implemented auditing using triggers and enforcing business rules via checks and constraints. 
-
-Proper use of views to prevent unauthorized access to sensitive data. 
+Implemented auditing using triggers and enforcing business rules via checks and constraints. Proper use of views to prevent unauthorized access to sensitive data. 
 
 Oracle, PL/SQL, SQL, unix shell scripting, Oracle Forms, Oracle Designer
 
