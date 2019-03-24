@@ -105,10 +105,10 @@ Matric (Grade 12) - AHS Pretoria, ZA
 
 ### Programming Languages
 
-`Competent`
+`Knowledgeable`
 Java, Python, Kotlin, C, JavaScript
 
-`Advanced`
+`Strong`
 SQL, PL/SQL
 
 ### Persistence Technologies
@@ -117,10 +117,6 @@ Oracle, SQL Server, PostgreSQL, MySQL, H2, Elasticsearch, Redis
 ### Tools & Frameworks
 J2EE, Informatica, SSIS, Spring Boot / Batch, Intellij Idea, Oracle SQL Developer, AWS EC2 & Lightsail
 
-
-### Operating Systems
-
-Windows, Unix, Linux, Mac OS X
 
 ## Languages
 
