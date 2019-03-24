@@ -10,7 +10,7 @@ title: Jaco Immelman's
 
 ## About 
 
-Data Engineer. Designed/developed/optimised data transformation pipelines for the largest data migration project in Australian Superannuation history. (5+ million members, $2+ billion in assets). Currently serving as Technical Lead (2 years), coordinating a team with a diverse set of ETL and data quality skills. 
+Data Engineer. Designed, developed and optimised data transformation pipelines for the largest data migration project in Australian Superannuation history. (5+ million members, $2+ billion in assets). Currently serving as Technical Lead (2 years), coordinating a team with a diverse set of ETL and data quality skills. 
 
 ## Experience
 
@@ -18,7 +18,7 @@ Data Engineer. Designed/developed/optimised data transformation pipelines for th
 `2011.03 ~ Current`
 __Link Group, Melbourne, VIC__ 
 
-Joined as Analyst/Programmer on the Superpartners core registry. Moved to the transition team in 2013 as Data Engineer when Link Group acquired Superpartners.
+Joined as Analyst Programmer on the Superpartners core registry. Moved to the transition team in 2013 as Data Engineer when Link Group acquired Superpartners.
 
 Established robust techniques for raw data transformation.
 
@@ -27,11 +27,11 @@ Implemented a Defined Benefit and Insurance Reconciliation solution. (Automate q
 Oracle RDBMS (Exadata), Informatica, SSIS, Java, Pro*C, J2EE, SQL, PL/SQL, TSQL, Elasticsearch, APEX, Subversion VCS, Jira
 
 
-### Senior Analyst/Programmer
+### Senior Analyst Programmer
 `2010.02 ~ 2011.01`
 __Morgan Stanley, Melbourne, VIC__ 
 
-Senior Analyst/Programmer role on a real time equity trading platform.
+Senior Analyst Programmer role on a real time equity trading platform.
 
 Developed/maintained/optimised database Procedures, Functions, Cursors and Triggers. (Complex PL/SQL)
  
@@ -47,21 +47,21 @@ Technical lead role, responsible for design/development of routines to clean and
 
 Oracle RDBMS, PL/SQL, Quest Code tester, Mercurial VCS
 
-### Senior Analyst/Programmer
+### Senior Analyst Programmer
 `2006 ~ 2008`
 __Altech, Cape Town, ZA__ 
 
-Senior analyst/programmer role on a Telecommunications Customer Administration and Provisioning system.
+Senior Analyst Programmer role on a Telecommunications Customer Administration and Provisioning system.
 
 Oracle RDBMS, Oracle Designer, SQL, PL/SQL, Java
 
-### Analyst/Programmer
+### Analyst Programmer
 `2000 ~ 2005`
 __Medscheme, Johannesburg, ZA__ 
 
 South Africa's largest private health administrator. 
 
-Developed/optimised ETL routines to move from a legacy mainframe to a bespoke new Oracle system (Nexus). 
+Developed and optimised ETL routines to move from a legacy mainframe to a bespoke new Oracle system (Nexus). 
 
 Implemented auditing using triggers and enforcing business rules via checks and constraints. Proper use of views to prevent unauthorized access to sensitive data. 
 
