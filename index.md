@@ -63,8 +63,6 @@ Senior analyst/programmer role on the iCap (Integrated Customer Administration a
 
 6 week release cycles
 
-Designed, developed and implemented the database schema and access layer (java) for a Vodacom Tasmania lucky draw system.
- 
 Highlights include the opportunity to travel to Tanzania and the Democratic Republic of Congo to oversee upgrades. 
 
 Received “Top Performer for 2007” at the company awards night. 
