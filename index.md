@@ -10,7 +10,7 @@ title: Jaco Immelman's
 
 ## About 
 
-21 years experience as IT professional. 8 years in current role
+Pragmatic IT professional. 21 years experience. 8 years in current role.
 
 ## Experience
 
@@ -51,8 +51,6 @@ __BHP Billiton, Perth, WA__
  
 Technical lead role, responsible for design/development of routines to clean and transform operational rail data for BHP's BI systems. 
 
-Comprehensive PL/SQL unit testing using Code Tester from Quest.
-
 Oracle RDBMS, PL/SQL, Quest Code tester, Mercurial VCS
 
 ### Senior Analyst/Programmer
@@ -61,11 +59,7 @@ __Altech, Cape Town, ZA__
 
 Senior analyst/programmer role on the iCap (Integrated Customer Administration and Provisioning) product.
 
-6 week release cycles
-
 Highlights include the opportunity to travel to Tanzania and the Democratic Republic of Congo to oversee upgrades. 
-
-Received “Top Performer for 2007” at the company awards night. 
 
 Oracle RDBMS, Oracle Designer, SQL, PL/SQL, Java
 
@@ -89,11 +83,7 @@ __Integrated Tertiary Software Pretoria, ZA__
 
 Intern role after passing the South African Information Technology Users Council (ITUC) COBOL exam. 
 
-Maintenance / feature development on a Student administration system. 
-
-First introduction to the Oracle RDBMS (version 7). 
-
-Developed a large number of custom reports using Pro*C. 
+Maintenance / feature development on a Student administration system. First introduction to developing solutions on the Oracle RDBMS (version 7). 
 
 Oracle, SQL, PL/SQL, Pro*C, Oracle Forms
 
