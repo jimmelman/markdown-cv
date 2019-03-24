@@ -73,7 +73,7 @@ __Integrated Tertiary Software Pretoria, ZA__
 
 Intern role after passing the South African Information Technology Users Council (ITUC) COBOL exam. 
 
-Maintenance / feature development on a Student administration system. First introduction to developing solutions on the Oracle RDBMS (version 7). 
+Maintenance and new feature development on a Student administration system. First introduction to developing solutions on the Oracle RDBMS (version 7). 
 
 Oracle, SQL, PL/SQL, Pro*C, Oracle Forms
 
