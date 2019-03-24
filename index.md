@@ -10,7 +10,7 @@ title: Jaco Immelman's
 
 ## About 
 
-Data Engineer. Designed/developed/optimised data transformation pipelines for the largest data migration project in Australian Superannuation history. (5+ million members and $2+ billion in assets). Currently serving as Technical Lead (2 years), coordinating a team with a diverse set of ETL and data quality skills. 
+Data Engineer. Designed/developed/optimised data transformation pipelines for the largest data migration project in Australian Superannuation history. (5+ million members, $2+ billion in assets). Currently serving as Technical Lead (2 years), coordinating a team with a diverse set of ETL and data quality skills. 
 
 ## Experience
 
@@ -48,7 +48,7 @@ Technical lead role, responsible for design/development of routines to clean and
 Oracle RDBMS, PL/SQL, Quest Code tester, Mercurial VCS
 
 ### Senior Analyst/Programmer
-`2005.10 ~ 2008.11`
+`2006 ~ 2008`
 __Altech, Cape Town, ZA__ 
 
 Senior analyst/programmer role on a Telecommunications Customer Administration and Provisioning system.
@@ -56,7 +56,7 @@ Senior analyst/programmer role on a Telecommunications Customer Administration a
 Oracle RDBMS, Oracle Designer, SQL, PL/SQL, Java
 
 ### Analyst/Programmer
-`1999.11 ~ 2005.09`
+`2000 ~ 2005`
 __Medscheme, Johannesburg, ZA__ 
 
 South Africa's largest private health administrator. 
@@ -68,7 +68,7 @@ Implemented auditing using triggers and enforcing business rules via checks and 
 Oracle, PL/SQL, SQL, unix shell scripting, Oracle Forms, Oracle Designer
 
 ### Intern Programmer
-`1998.01 ~ 1999.10`
+`1998 ~ 1999`
 __Integrated Tertiary Software Pretoria, ZA__ 
 
 Intern role after passing the South African Information Technology Users Council (ITUC) COBOL exam. 
@@ -78,8 +78,8 @@ Maintenance / feature development on a Student administration system. First intr
 Oracle, SQL, PL/SQL, Pro*C, Oracle Forms
 
 ### Correctional Officer
-`1994.01 ~ 1997.12`
-__South African Department of Correctional Services, Multiple locations, ZA__ 
+`1994 ~ 1997`
+__SADC, Multiple locations, ZA__ 
 
 Served for 4 years after finishing school.
 
