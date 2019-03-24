@@ -83,7 +83,7 @@ __SADC, Multiple locations, ZA__
 
 Served for 4 years after finishing school.
 
-Deployed to help at the Groenpunt facility in Vereeniging during South Africa's first free general elections (26-29 April, 1994). This remains a career highlight.
+Deployed to help at the Groenpunt facility in Vereeniging during South Africa's first free general elections (26-29 April, 1994).
 
 
 
