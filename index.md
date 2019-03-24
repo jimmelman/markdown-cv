@@ -10,7 +10,7 @@ title: Jaco Immelman's
 
 ## About 
 
-Data Engineer. Designed/developed/optimised data transformation pipelines for the largest data migration project in Australian Superannuation history. (5 million+ members and $2 billion+ in assets). Currently serving as Technical Lead (2 years), coordinating a team with a diverse set of ETL and data quality skills. 
+Data Engineer. Designed/developed/optimised data transformation pipelines for the largest data migration project in Australian Superannuation history. (5+ million members and $2+ billion in assets). Currently serving as Technical Lead (2 years), coordinating a team with a diverse set of ETL and data quality skills. 
 
 ## Experience
 
