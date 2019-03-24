@@ -10,7 +10,8 @@ title: Jaco Immelman's
 
 ## About 
 
-Pragmatic Programmer
+Data Engineer. Designed/developed/optimised data transformation pipelines for the largest data migration project in Australian Superannuation history. (5 million+ members and $2 billion+ in assets). Currently serving as Technical Lead (2 years), coordinating a team with a diverse set of ETL and data quality skills. 
+
 
 ## Experience
 
@@ -22,11 +23,7 @@ Joined as Analyst/Programmer on the Superpartners R2 core registry. (Oracle , PL
 
 Moved to the transition team in 2013 as a data engineer when Link Group acquired Superpatners.
 
-Designed/developed/optimised data transformation pipelines for the largest data migration project in Australian Superannuation history. (5 million+ members and $2 billion+ in assets) 
-
 Implemented a Defined Benefit Reconciliation solution. (Automate quotes (JVM) -> ingest/index results in elasticsearch -> build kibana visualisations for use by the  quality team)
-
-Currently serving as Technical Lead (2 years), coordinating a team with a diverse set of ETL / data quality skills.
 
 Established robust techniques for raw data transformation.
 
