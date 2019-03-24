@@ -22,11 +22,11 @@ Joined as a senior Analyst/Programmer on the Superpartners R2 core registry. (Or
 
 Moved to the transition team in 2013 as a data engineer when Link Group acquired Superpatners.
 
-Designed/developed/optimised data transformation pipelines for largest data migration project in Australian Superannuation history. (5 million+ members and $2 billion+ in assets) 
+Designed/developed/optimised data transformation pipelines for the largest data migration project in Australian Superannuation history. (5 million+ members and $2 billion+ in assets) 
 
 Implemented a Defined Benefit Reconciliation solution. (Automate quotes (JVM) -> ingest/index results in elasticsearch -> build kibana visualisations for use by the  quality team)
 
-Currently serving as Technical Lead (2 years), coordinating a team with a diverse range of ETL / data quality skills.
+Currently serving as Technical Lead (2 years), coordinating a team with a diverse set of ETL / data quality skills.
 
 Established robust techniques for raw data transformation.
 
@@ -62,6 +62,8 @@ __Altech, Cape Town, ZA__
 Senior analyst/programmer role on the iCap (Integrated Customer Administration and Provisioning) product.
 
 6 week release cycles
+
+Designed, developed and implemented the database schema and access layer (java) for a Vodacom Tasmania lucky draw system.
  
 Highlights include the opportunity to travel to Tanzania and the Democratic Republic of Congo to oversee upgrades. 
 
