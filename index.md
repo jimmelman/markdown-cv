@@ -10,7 +10,7 @@ title: Jaco Immelman's
 
 ## About 
 
-Pragmatic IT professional. 21 years experience. 8 years in current role.
+Pragmatic Programmer
 
 ## Experience
 
