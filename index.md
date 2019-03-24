@@ -115,7 +115,7 @@ Java
 SQL, PL/SQL
 
 ### Persistence Technologies
-Oracle, SQL Server, PostgreSQL, MySQL, H2, elasticsearch, redis
+Oracle, SQL Server, PostgreSQL, MySQL, H2, Elasticsearch, Redis
 
 ### Tools & Frameworks
 J2EE, Informatica, SSIS, Spring Boot / Batch, Intellij Idea, Oracle SQL Developer, AWS EC2 & Lightsail
