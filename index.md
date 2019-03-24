@@ -29,7 +29,7 @@ Oracle RDBMS (Exadata), Informatica, SSIS, Java, Pro*C, J2EE, SQL, PL/SQL, TSQL,
 
 ### Senior Analyst/Programmer
 `2010.02 ~ 2011.01`
-__Morganstanley, Melbourne, VIC__ 
+__Morgan Stanley, Melbourne, VIC__ 
 
 Senior Analyst/Programmer role on a real time equity trading platform.
 
