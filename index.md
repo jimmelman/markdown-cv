@@ -33,7 +33,7 @@ __Morgan Stanley, Melbourne, VIC__
 
 Senior Analyst Programmer role on a real time equity trading platform.
 
-Developed/maintained/optimised database Procedures, Functions, Cursors and Triggers. (Complex PL/SQL)
+Developed,maintained and optimised database Procedures, Functions, Cursors and Triggers. (Complex PL/SQL)
  
 Oracle RDBMS (Sun Solaris), Oracle Forms & Reports
 
