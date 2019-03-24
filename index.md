@@ -10,7 +10,7 @@ title: Jaco Immelman's
 
 ## About 
 
-TODO 21 years experience.
+21 years experience working with the Oracle RDBMS. 8 years in current role
 
 ## Experience
 
@@ -18,7 +18,7 @@ TODO 21 years experience.
 `2011.03 ~ Current`
 __Link Group, Melbourne, VIC__ 
 
-Joined as a senior analyst/programmer on the Superpartners R2 core registry. (Oracle , PL/SQL, Pro*C)
+Joined as a senior Analyst/Programmer on the Superpartners R2 core registry. (Oracle , PL/SQL, Pro*C)
 
 Moved to the transition team in 2013 as a data engineer. 
 
@@ -26,7 +26,9 @@ Designed/developed/optimised data transformation pipelines for largest data migr
 
 Currently serving as Technical Lead (2 years), coordinating a team with a diverse range of ETL skills.
 
-Oracle RDBMS (Exadata), Informatica, Java, J2EE, SQL, PL/SQL, TSQL, subversion, Jira
+Established robust techniques for raw data transformation.
+
+Oracle RDBMS (Exadata), Informatica, SSIS, Java, J2EE, SQL, PL/SQL, TSQL, elasticsearch, APEX, subversion, Jira
 
 
 ### Senior Analyst/Programmer
@@ -34,6 +36,8 @@ Oracle RDBMS (Exadata), Informatica, Java, J2EE, SQL, PL/SQL, TSQL, subversion, 
 __Morganstanley, Melbourne, VIC__ 
 
 Full SDLC analyst/programmer role on the EBBOS real time equity trading platform.
+
+Developed/maintained/optimised database Procedures, Functions, Cursors and Triggers. (Complex PL/SQL)
  
 Oracle RDBMS (Sun Solaris), Oracle Forms & Reports
 
@@ -71,7 +75,9 @@ South Africa's largest private health administrator.
 
 Developed/optimised ETL routines to move from a legacy mainframe to a bespoke new Oracle system (Nexus). 
 
-Transitioned to a full SDLC role on Nexus 
+Implemented auditing using triggers and enforcing business rules via checks and constraints. 
+
+Proper use of views to prevent unauthorized access to sensitive data. 
 
 Oracle, PL/SQL, SQL, unix shell scripting, Oracle Forms, Oracle Designer
 
@@ -128,7 +134,7 @@ SQL, PL/SQL
 
 ### Operating Systems
 
-Mac OS X, Linux, Windows
+Windows, Unix, Linux, Mac OS X
 
 ## Languages
 
