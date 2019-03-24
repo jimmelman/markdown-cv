@@ -108,7 +108,7 @@ Matric (Grade 12) - AHS Pretoria, ZA
 `Basic`
 Python, Kotlin, C, JavaScript
 
-`Medium`
+`Competent`
 Java
 
 `Advanced`
