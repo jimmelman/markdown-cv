@@ -18,7 +18,7 @@ Data Engineer. Designed/developed/optimised data transformation pipelines for th
 `2011.03 ~ Current`
 __Link Group, Melbourne, VIC__ 
 
-Joined as Analyst/Programmer on the R2 core registry. Moved to the transition team in 2013 as Data Engineer when Link Group acquired Superpartners.
+Joined as Analyst/Programmer on the Superpartners core registry. Moved to the transition team in 2013 as Data Engineer when Link Group acquired Superpartners.
 
 Established robust techniques for raw data transformation.
 
