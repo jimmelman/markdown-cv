@@ -4,13 +4,13 @@ title: Jaco Immelman's
 ---
 # Jaco Immelman
 <div id="webaddress"> Melbourne, VIC | 
-<a target="_blank" href="mailto:jimmelman@gmail.com"><i class="fa fa-envelope-o fa-2x"></i> jimmelman@gmail.com</a> |  <i class="fa fa-mobile fa-2x"></i> +61 555 555 555 
+<a target="_blank" href="mailto:jaco.immelman@gmail.com"><i class="fa fa-envelope-o fa-2x"></i> jaco.immelman@gmail.com</a> |  <i class="fa fa-mobile fa-2x"></i> +450 430 627 
 </div>
 
 
 ## About 
 
-Data Engineer. 21 years Oracle RDBMS experience. Designed, developed and optimised data transformation pipelines for the largest data migration project in Australian Superannuation history. (5+ million members, $2+ billion in assets). Currently serving as Technical Lead (2 years), coordinating a team with a diverse set of ETL and data quality skills. 
+21 experience as Data Professional. Designed, developed and optimised data transformation pipelines for the largest data migration project in Australian Superannuation history. (5+ million members, $2+ billion in assets). Currently serving as Technical Lead (2 years), coordinating a team with a diverse set of ETL and data quality skills. 
 
 ## Experience
 
@@ -18,11 +18,15 @@ Data Engineer. 21 years Oracle RDBMS experience. Designed, developed and optimis
 `2011.03 ~ Current`
 __Link Group, Melbourne, VIC__ 
 
-Joined as Analyst Programmer on the Superpartners core registry. Moved to the transition team in 2013 as Data Engineer when Link Group acquired Superpartners.
+Joined as Analyst Programmer on the Superpartners core registry. Full SDLC (Pro*C, Oracle forms, PL/SQL)
+
+Data Anlysis and profiling (Insurance remediation)
+
+Moved to the transition team in 2013 as Data Engineer when Link Group acquired Superpartners.
 
 Established robust techniques for raw data transformation.
 
-Implemented a Defined Benefit and Insurance Reconciliation solution. (Automate quotes (JVM) -> ingest/index results in Elasticsearch -> build Kibana visualisations for use by the  quality team)
+Strong focus on data validation. Implemented a Defined Benefit and Insurance Reconciliation solution. (JVM , Elasticsearch, Kibana)
 
 Oracle RDBMS (Exadata), Informatica, SSIS, Java, Pro*C, J2EE, SQL, PL/SQL, TSQL, Elasticsearch, APEX, Subversion VCS, Jira
 
